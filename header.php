@@ -18,7 +18,6 @@
 		color: #333; 
 		}
         
-        /* Top Navigation Header */
         .main-header {
             background-color: #1e1e2f;
             color: #ffffff;
@@ -73,7 +72,7 @@
             padding: 5px 10px;
             border-radius: 4px;
             transition: 0.2s;
-        }
+         }
         .nav-links a:hover {
             background: #007bff;
             color: white;
@@ -87,7 +86,7 @@
 
     <header class="main-header">
         <div class="logo-area">
-            <h2>🏨 HOTEL ELITE</h2>
+            <h2> HOTEL ELITE</h2>
         </div>
         <div class="center-title">
             <h1>Hotel Management System</h1>
@@ -105,10 +104,12 @@
     </header>
 
     <div class="nav-links">
-        <a href="dashboard.php">Dashboard</a>
-        <a href="room_management.php">Rooms</a>
-        <a href="booking_management.php">Bookings</a>
-        <a href="food_orders.php">Food Orders</a>
+    <a href="dashboard.php">Dashboard</a>
+    <a href="room_management.php">Rooms</a>
+    <a href="booking_management.php">Bookings</a>
+    <a href="food_orders.php">Food Orders</a>
+    <a href="reports.php">Reports</a> 
+</div>
     </div>
 
     <div class="main-content">
